@@ -1,16 +1,17 @@
-## Hi there 👋
+# Yo! 🎤
 
-<!--
-**carol198956/carol198956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **carol198956**, a game developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Goal: ship something useful every week
+- 🧠 Lifelong learner
+- 📫 Reach me through GitHub
+
+## Tech
+
+`Node.js` `JavaScript` `Terraform`
+
+---
+
+_Currently hacking on cool stuff._
